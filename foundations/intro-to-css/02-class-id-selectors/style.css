@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+#blue-big {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#small-green {
+    background-color: #50C878;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-numbered {
+    background-color: hsl(349,100%,78%);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.cooler {
+    font-size: 24px;
+}
