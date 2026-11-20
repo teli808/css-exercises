@@ -7,8 +7,9 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
-  padding-top: 10px;
-  padding-bottom: 5px;
+  /* padding-top: 10px;
+  padding-bottom: 5px; */
+  padding: 8px;
 }
 
 .title,
@@ -16,17 +17,26 @@ body {
 .button-container {
   background: dodgerblue;
   font-size: 16px;
-  padding: 10px;
-  margin: 10px;
+}
+
+.title {
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.content {
+  padding: 15px 10px;
+  margin-bottom: 8px;
 }
 
 .button-container {
   text-align: center;
+  padding: 8px;
 }
 
 button {
   display: block;
   background: white;
-  padding: 8px 12px;
-  margin: auto;
+  padding: 8px 24px;
+  margin: 0 auto;
 }
